@@ -25,3 +25,10 @@ The generate_report(data, analysis, output_filename='report.pdf') function is in
 At the bottom of the script, within the if __name__ == "__main__": block, the script specifies an example input file path and output filename. It then sequentially calls the three main functions: read_data, analyze_data, and generate_report. If successful, it prints confirmation messages and automatically opens the generated PDF using os.startfile.
 This script is highly modular, making it easy to adapt for different datasets or extend with more complex analysis in the future. Error handling ensures that if something goes wrong (like a missing file), meaningful error messages are printed. Furthermore, the generated PDF report is professional in appearance, with organized sections and formatting, making it ideal for business, academic, or personal reporting purposes.
 Overall, this code provides a neat, efficient pipeline for basic data reporting: from raw CSV to a polished, shareable PDF document — all with minimal manual intervention.
+
+
+Output:
+
+![Image](https://github.com/user-attachments/assets/b9a441e0-da21-49ce-ab40-97bc986c0574)
+
+![Image](https://github.com/user-attachments/assets/5abbd759-0661-4792-af00-318ebbcc66d3)
