@@ -27,6 +27,7 @@ This script is highly modular, making it easy to adapt for different datasets or
 Overall, this code provides a neat, efficient pipeline for basic data reporting: from raw CSV to a polished, shareable PDF document — all with minimal manual intervention.
 
 
+
 Output:
 
 ![Image](https://github.com/user-attachments/assets/b9a441e0-da21-49ce-ab40-97bc986c0574)
